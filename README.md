@@ -1,7 +1,6 @@
 
-# Super-Resolution Neural Operator
+# An End-to-End Implicit Neural Representation Network for volume medical image
 
-This repository contains the official implementation for SRNO introduced in the following paper:
 
 [**End-to-END volume medical image compression**]
 
